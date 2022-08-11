@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thomas Mannion</h1>
 <h3 align="center">I am a coffee nerd who love Java...Script.</h3>
 
-I am currently improving myself and coding at [Makers Academy](https://makers.tech/) focusing on JavaScript and Ruby.
-I love open source software and am excited to get involved as a contributer with my new found knowledge. I am currently living in London and moonlight as a barista.
+I am currently living in London and moonlight as a barista while improving myself and 
+coding at [Makers Academy](https://makers.tech/). My main focus is JavaScript with hope 
+to improve my knowledge in React striving towards being a full-stack developer. I love 
+open source software and am excited to get involved as a contributer with my new found knowledge.
 
 - 🌱 I’m currently learning **JavaScript and React**
 
