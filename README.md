@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thomas Mannion</h1>
-<h3 align="center">I am a coffee nerd who love Java...Script.</h3>
+<h3 align="center">I am a coffee nerd who loves Java...Script.</h3>
 
 I am currently living in London and moonlight as a barista while improving myself and 
-coding at [Makers Academy](https://makers.tech/). My main focus is JavaScript with hope 
-to improve my knowledge in React striving towards being a full-stack developer. I love 
-open source software and am excited to get involved as a contributer with my new found knowledge.
+coding at [Makers Academy](https://makers.tech/). My previous experience coding was in Computer Science at Durham University, there i mainly focused on Python and Haskell. Now my focus is on JavaScript with hope to improve my understanding of React striving towards being a full-stack developer. I love open source software and am excited to get involved as a contributer with all my new knowledge.
+
+- 🔭 I’m currently working on improving myself
 
 - 🌱 I’m currently learning **JavaScript and React**
 
@@ -16,8 +16,8 @@ open source software and am excited to get involved as a contributer with my new
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tommannion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tommannion" height="30" width="40" /></a>
-<a href="https://medium.com/@tommannion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tommannion" height="30" width="40" /></a>
+<a href="https://twitter.com/thomasmannion18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomasmannion18" height="30" width="40" /></a>
+<a href="https://medium.com/@t.mannion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t.mannion" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
