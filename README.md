@@ -13,7 +13,7 @@
 
 <br>
 
-I am a perseverant and enthusiastic Full stack developer looking to transition from my current career in the coffee industry.
+I am a perseverant and enthusiastic Full Stack developer looking to transition from my current career in the coffee industry.
 <br>
 I previously studied computer science at Durham University but felt at the time I needed more confidence to be industry ready. Recently having completed Makers Bootcamp, I have grown into a competent coder with a growth mindset ready to tackle any project.
 <br>
