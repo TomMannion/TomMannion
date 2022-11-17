@@ -1,3 +1,5 @@
+[![Toms GitHub Banner](./assets/catbanner.png)](https://github.com/TomMannion)
+
 <div align="left">
 
 [About me](#about_me) | [Skills](#skills) | [Pinned projects](#pinned) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
