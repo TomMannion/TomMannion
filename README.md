@@ -14,14 +14,10 @@
 <br>
 
 I am a perseverant and enthusiastic Full Stack developer looking to transition from my current career in the coffee industry.
-
 <br>
-
 I previously studied Computer Science at Durham University but felt at the time I needed more confidence to be industry-ready. Having completed Makers Bootcamp recently, I have grown into a competent coder with a growth mindset ready to tackle any project.
-
 <br>
-
-I am looking for a company that is as much about people as it is tech, so my unique blend of customer service and technical knowledge can help them achieve their goals.
+Aspiring to be a part of a company that is as much about people as it is tech, I believe that my unique blend of customer service and technical knowledge can help them achieve their goals.
 
 <br>
 
