@@ -1,33 +1,174 @@
-<h1 align="center">Hi 👋, I'm Thomas Mannion</h1>
-<h3 align="center">I am a coffee nerd who loves Java...Script.</h3>
+<div align="left">
 
-I am currently living in London and moonlight as a barista while improving myself and 
-coding at [Makers Academy](https://makers.tech/). My previous experience coding was in Computer Science at Durham University, there i mainly focused on Python and Haskell. Now my focus is on JavaScript with hope to improve my understanding of React striving towards being a full-stack developer. I love open source software and am excited to get involved as a contributer with all my new knowledge.
+[About me](#about_me) | [Skills](#skills) | [Pinned projects](#pinned) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
-- 🔭 I’m currently working on improving myself
+<h1>Hi 👋, I'm Thomas Mannion</h1>
+</div>
 
-- 🌱 I’m currently learning **JavaScript and React**
+<a name="about_me">About me 😄</a>
 
-- 💬 Ask me about **Coffee**
+<br>
 
-- 😄 Pronouns: He/Him/They/Them
+<h3>I am a coffee nerd who loves Java...Script.</h3>
 
-- 📫 How to reach me **t.mannion89@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thomasmannion18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thomasmannion18" height="30" width="40" /></a>
-<a href="https://medium.com/@t.mannion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@t.mannion" height="30" width="40" /></a>
-</p>
+I am a perseverant and enthusiastic Full stack developer looking to transition from my current career in the coffee industry.
+<br>
+I previously studied computer science at Durham University but felt at the time I needed more confidence to be industry ready. Recently having completed Makers Bootcamp, I have grown into a competent coder with a growth mindset ready to tackle any project.
+<br>
+I am looking for a company that is as much about people as it is tech, so my unique blend of customer service and technical knowledge can help them achieve their goals.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+<!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommannion&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<br>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/tommannion/tommannion/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/tommannion/tommannion/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## <a name="skills"> 💼 Skills</a>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br>
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=Node&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-Capybara-informational?style=flat&logo=Capybara&logoColor=white&color=4AB197)
+
+<br>
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
+</details>
+
+<br>
+<br>
+
+## <a name="pinned"> 📌 Pinned Repositories</a>
+
+<br>
+
+| Project                                                                                                                                                                                                                                                                                                 |                                                Tech stack                                                |                                                                                                                       Live link |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://github.com/TomMannion/ingredient-based-recipe-app/"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TomMannion&repo=ingredient-based-recipe-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a> | <ul><li>Express</li><li>React</li><li>Bootstrap</li><li>Mongoose</li><li>Jest</li><li>Cypress </li></ul> | <a href="https://less-waste-more-taste.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
+| <a href="https://github.com/GuillerminaLorenzo/acebook-monsters-inc"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=TomMannion&repo=acebook-monsters-inc&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /></a>        |        <ul><li>Express</li><li>Handlebars</li><li>Mongoose</li><li>Jest</li><li>Cypress</li></ul>        |  <a href="https://monsters-inc-acebook.herokuapp.com/"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></a> |
+
+<br>
+
+## <a name="skills">👏 What I bring to the table (Skills)</a>
+
+<br>
+
+#### Effective communication
+
+- Promoted to head of coffee training at Kafi (London :gb:).
+- Established a food waste reduction scheme by connecting Elysian Coffee and Atira Women's Shelter (Vancouver :canada:).
+- Campaigned and was elected as the Social Secretary at Durham University Breakdance Society (Durham :gb:).
+
+#### Adaptive problem solving
+
+- Founded and managed a dog-walking business to support myself financially in Lund (Lund :sweden:).
+- Learned basic Cantonese within a month to secure employment at Twins Kitchen as an Events Coordinator and Barista (Hong Kong :hong_kong:).
+- Self-taught React in 8 days during Makers Bootcamp to create [Less waste more taste](https://less-waste-more-taste.herokuapp.com/) (London :gb:).
+
+#### Meticulous organisation
+
+- Created a coffee spreadsheet at Elysian Coffee to track espresso extraction against coffee roast date (Vancouver :canada:).
+- Fine-tune the espresso everyday to ensure consistency (Coffee TDD? :coffee:) (:earth_asia:).
+
+<br>
+
+## <a name="education">:open_book: Where I've been learning (Education)</a>
+
+<br>
+
+#### [Makers Academy](https://makers.tech/) (July to November 2022)
+
+Full-time software development course focusing on:
+
+- Utilising test-driven design.
+- Object-Oriented Programming and design principles.
+- Model View Controller design patterns.
+- Web frameworks, version control, and CI/CD to create full-stack web apps.
+- GitHub group and individual workflow.
+- Effective pair-programming.
+- Agile principles, sprint planning, and productive retros.
+
+#### [Durham University](https://www.durham.ac.uk/homepage/) (September 2013 to July 2016)
+
+- Computer science (Diploma of higher education)
+
+<br>
+
+## <a name="experience">:technologist: What I've been up to? (Experience) </a>
+
+<br>
+
+#### [Kafi](https://www.kaficafe.com/) - London (December 2020 to Current)
+
+Senior barista
+
+- Lead training of coffee fundamentals for junior staff members.
+- Design recipes for the store's menu.
+- Contributed to the setup of a second location.
+
+#### [Elysian Coffee](https://elysiancoffee.com/) - Vancouver (August 2019 to September 2020)
+
+Senior barista
+
+- Proposed and implemented a food waste reduction scheme with Atira Women’s shelter.
+- Gained coffee roasting knowledge.
+
+#### [Twins Kitchen](http://www.twins-kitchen.com/) - Hong Kong (January 2018 to September 2019)
+
+Barista / Events coordinator
+
+- Coordinated events for brands such as Moleskine, Loewe, and Origins.
+
+<br>
+
+## <a name="interests">:climbing: Other things I also enjoy! (Interests) </a>
+
+<br>
+
+- Sewing, like coding, lets me plan and see all the pieces come together into one finished product.
+- Climbing gives me something to look forward to; meeting friends and pushing each other to do better keeps me coming back!
+
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a class="pinned" href="https://github.com/TomMannion">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomMannion&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a class="pinned" href="https://github.com/TomMannion">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TomMannion&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Toms GitHub Stats" />
+</a>
+
+<br>
+<br>
