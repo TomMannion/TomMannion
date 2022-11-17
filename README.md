@@ -1,4 +1,4 @@
-[![Toms GitHub Banner](./assets/catbanner.png)](https://github.com/TomMannion)
+[![Toms GitHub Banner](./catbanner.png)](https://github.com/TomMannion)
 
 <div align="left">
 
