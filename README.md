@@ -118,7 +118,7 @@ Full-time software development course focusing on:
 
 #### [Durham University](https://www.durham.ac.uk/homepage/) (September 2013 to July 2016)
 
-- Computer science (Diploma of higher education)
+- Computer Science (Diploma of higher education)
 
 <br>
 
