@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm Thomas Mannion</h1>
 </div>
 
-<a name="about_me">About me 😄</a>
+## <a name="about_me">About me 😄</a>
 
 <br>
 
