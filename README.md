@@ -77,7 +77,7 @@ I am looking for a company that is as much about people as it is tech, so my uni
 
 <br>
 
-## <a name="skills">👏 What I bring to the table (Skills)</a>
+## <a name="skills">:brain: What I bring to the table (Skills)</a>
 
 <br>
 
