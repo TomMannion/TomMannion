@@ -37,7 +37,7 @@ Aspiring to be a part of a company that is as much about people as it is tech, I
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
 <details>
-<summary>More Skills</summary>
+<summary>More Skills</summary>:sparkles:
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
