@@ -9,8 +9,6 @@
 
 ## <a name="about_me">About me 😄</a>
 
-<br>
-
 <h3>A coffee nerd who loves Java...Script.</h3>
 
 <br>
