@@ -118,8 +118,6 @@ Full-time software development course focusing on:
 
 ## <a name="experience">:technologist: What I've been up to? (Experience) </a>
 
-<br>
-
 #### [Kafi](https://www.kaficafe.com/) - London (December 2020 to Current)
 
 Senior barista
