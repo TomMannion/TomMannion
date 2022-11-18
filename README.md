@@ -77,8 +77,6 @@ Aspiring to be a part of a company that is as much about people as it is tech, I
 
 ## <a name="skills">:brain: What I bring to the table (Skills)</a>
 
-<br>
-
 #### Effective communication
 
 - Promoted to head of coffee training at Kafi (London :gb:).
@@ -99,8 +97,6 @@ Aspiring to be a part of a company that is as much about people as it is tech, I
 <br>
 
 ## <a name="education">:open_book: Where I've been learning (Education)</a>
-
-<br>
 
 #### [Makers Academy](https://makers.tech/) (July to November 2022)
 
@@ -148,8 +144,6 @@ Barista / Events coordinator
 <br>
 
 ## <a name="interests">:climbing: Other things I also enjoy! (Interests) </a>
-
-<br>
 
 - Sewing, like coding, lets me plan and see all the pieces come together into one finished product.
 - Climbing gives me something to look forward to; meeting friends and pushing each other to do better keeps me coming back!
