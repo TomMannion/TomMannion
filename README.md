@@ -156,7 +156,7 @@ Barista / Events coordinator
 <br>
 
 <a class="pinned" href="https://github.com/TomMannion">
-  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/top-langs/?username=TomMannion&theme=dark&show_icons=true" />
+  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/top-langs/?username=TomMannion&theme=dark" />
 </a>
 
 <a class="pinned" href="https://github.com/TomMannion">
