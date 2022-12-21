@@ -160,7 +160,6 @@ Barista / Events coordinator
 </a>
 
 <a class="pinned" href="https://github.com/TomMannion">
-  https://my-stats-vl2g.vercel.app/api?username=TomMannion&theme=dark&show_icons=true
   <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api?username=TomMannion&theme=dark&show_icons=true" alt="Toms GitHub Stats" />
 </a>
 
