@@ -115,11 +115,12 @@ Create dual-language subtitles for Plex. Auto-sync, CJK language detection, cust
 
 <div align="center">
 
-<a href="https://github.com/TomMannion">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TomMannion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true"/>
+<a class="pinned" href="https://github.com/TomMannion">
+  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api/top-langs/?username=TomMannion&theme=dark" />
 </a>
-<a href="https://github.com/TomMannion">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomMannion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+<a class="pinned" href="https://github.com/TomMannion">
+  <img align="center" style="margin:0.5rem" src="https://my-stats-vl2g.vercel.app/api?username=TomMannion&theme=dark&show_icons=true" alt="Toms GitHub Stats" />
 </a>
 
 </div>
