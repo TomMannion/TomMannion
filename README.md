@@ -34,6 +34,7 @@ At Cambridge, I lead full-stack development on enterprise web applications:
 <td width="50%" valign="top">
 
 ### [TM95](https://github.com/TomMannion/TM95)
+
 **[Live Demo](https://tommannion.dev)**
 
 A fully interactive retro desktop environment. Draggable windows, working file system, multiple apps, screensavers—and yes, a UFO that abducts your icons.
@@ -44,6 +45,7 @@ A fully interactive retro desktop environment. Draggable windows, working file s
 <td width="50%" valign="top">
 
 ### [AI Text Adventure](https://github.com/TomMannion/ai-text-adventure)
+
 **[Live Demo](https://text-adventure-openai.surge.sh/)**
 
 OpenAI-powered text RPG with dynamic storytelling. Every playthrough generates a unique narrative based on your choices.
