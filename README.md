@@ -66,7 +66,7 @@ Visual Japanese vocabulary app. Link related words in 3×3 grids with images—t
 </td>
 <td width="50%" valign="top">
 
-### [Plex Dual Subtitles](https://github.com/TomMannion/PlexDualSub)
+### [Plex Dual Subtitles](https://github.com/TomMannion/plex-dual-subtitles)
 
 Create dual-language subtitles for Plex. Auto-sync, CJK language detection, custom styling for language learners.
 
