@@ -57,7 +57,7 @@ OpenAI-powered text RPG with dynamic storytelling. Every playthrough generates a
 <tr>
 <td width="50%" valign="top">
 
-### [Image Dictionary](https://github.com/TomMannion/image-dictionary)
+### [Image Dictionary](https://github.com/TomMannion/ImageDictionary)
 
 Visual Japanese vocabulary app. Link related words in 3×3 grids with images—turns memorization into spatial learning.
 
